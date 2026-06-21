@@ -4,7 +4,7 @@ A frontend assignment recreating the PopX mobile UI flow — built with React, V
 
 ## 🔗 Live Demo
 
-[Add your deployed link here once hosted]
+pop-x-lnpnxwqy1-learn-launch.vercel.app
 
 ## 📱 Screens
 
