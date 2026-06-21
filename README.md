@@ -80,12 +80,12 @@ popx-app/
 
 ├── package.json
 
-## 👩‍💻 Author
-
-**Purnima Karri**
-
 ├── tailwind.config.js
 
 ├── postcss.config.js
 
 └── vite.config.js
+
+## 👩‍💻 Author
+
+**Purnima Karri**
