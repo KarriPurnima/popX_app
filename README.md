@@ -51,3 +51,37 @@ npm run build
 ```
 
 ## 📂 Project Structure
+
+popx-app/
+
+├── public/
+
+│   └── vite.svg
+
+├── src/
+
+│   ├── components/
+
+│   │   ├── WelcomeScreen.jsx
+
+│   │   ├── LoginScreen.jsx
+
+│   │   ├── SignupScreen.jsx
+
+│   │   └── AccountSettings.jsx
+
+│   ├── App.jsx
+
+│   ├── main.jsx
+
+│   └── index.css
+
+├── index.html
+
+├── package.json
+
+├── tailwind.config.js
+
+├── postcss.config.js
+
+└── vite.config.js
